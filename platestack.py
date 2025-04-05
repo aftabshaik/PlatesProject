@@ -1,7 +1,7 @@
 from gui import gui
-from functions import stacker
 
 
+#main way to run the program.
 def main():
     gui.printMenu()
     
